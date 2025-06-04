@@ -1,0 +1,69 @@
+.login-input {
+  margin-bottom: 0;
+}
+.enter-card h1 {
+  margin-bottom: 12px;
+}
+.enter-card p {
+  text-align: center;
+  opacity: 1;
+}
+
+.continue-btn {
+  margin-top: 20px;
+}
+
+.or-divider {
+  display: flex;
+  align-items: center;
+  margin: 20px 0px;
+}
+
+.or-divider .line {
+  flex: 1;
+  height: 1px;
+  background-color: #e0e0e0;
+}
+
+.or-divider span {
+  padding: 0 10px;
+  color: #666;
+}
+
+.yandex img {
+  width: 30px;
+}
+
+.gosuslugi,
+.VK,
+.yandex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  border: 1px solid #bdbdbd;
+  height: 50px;
+  border-radius: 10px;
+  transition: all 200ms ease-in-out;
+}
+
+.alternative {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.compamy-link {
+  color: black;
+  transition: all 200ms ease-in-out;
+}
+
+.compamy-link:hover {
+  color: #0d4cd3;
+}
+
+.compamy-link:hover .gosuslugi,
+.compamy-link:hover .VK,
+.compamy-link:hover .yandex {
+  border: 1px solid #0d4cd3;
+}
