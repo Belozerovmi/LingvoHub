@@ -118,3 +118,6 @@ LingvoHub/
 
 # LingvoHub
 3,077 lines of code
+
+
+<p>made by Belozerov</p>
