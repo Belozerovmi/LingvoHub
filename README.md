@@ -120,4 +120,4 @@ LingvoHub/
 3,077 lines of code
 
 
-<p>made by Belozerov</p>
+<p align="center" >made by Belozerov</p>
